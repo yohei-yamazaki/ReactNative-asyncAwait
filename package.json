@@ -22,5 +22,8 @@
     "babel-preset-expo": "^7.1.0",
     "typescript": "^3.6.3"
   },
+  "resolutions": {
+    "mem": "~4.0.0"
+  },
   "private": true
 }
